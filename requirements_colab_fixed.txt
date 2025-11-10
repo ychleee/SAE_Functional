@@ -1,0 +1,10 @@
+# Fixed Colab GPU environment requirements with compatible versions
+numpy==1.23.5
+pandas==1.5.3
+torch==2.0.1
+transformers==4.35.0
+einops>=0.7.0
+accelerate>=0.24.0
+tqdm>=4.65.0
+pyyaml>=6.0
+matplotlib>=3.6.0
