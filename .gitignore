@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data - exclude large files
+data/activations/
+data/raw/*.csv
+data/raw/*.json
+*.pt
+*.pth
+*.pkl
+*.npy
+*.npz
+
+# Models - exclude trained checkpoints
+models/checkpoints/
+*.ckpt
+*.safetensors
+*.bin
+
+# Results - keep figures but exclude large files
+results/features/*.pt
+results/features/*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and tracking
+wandb/
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# Keep directory structure
+!data/.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/activations/.gitkeep
+!models/.gitkeep
+!models/checkpoints/.gitkeep
+!results/.gitkeep
+!results/figures/.gitkeep
+!results/features/.gitkeep

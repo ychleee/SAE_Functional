@@ -1,0 +1,68 @@
+# SAE Training Configuration
+
+model:
+  name: "EleutherAI/pythia-70m"  # Base model for activation extraction
+  layer_idx: 4  # Which layer to extract from (0-indexed, -1 for last)
+  device: "cuda"  # cuda or cpu
+
+data:
+  n_samples: 1000  # Number of synthetic sentences to generate
+  max_length: 128  # Maximum token length
+  batch_size: 32  # Batch size for activation extraction
+  pool_method: "mean"  # How to pool activations: mean, max, first, last
+  train_val_split: 0.8  # Train/validation split ratio
+
+sae:
+  input_dim: 512  # Should match model hidden dimension
+  hidden_dim: 1024  # Number of SAE features (sparse dictionary size)
+  sparsity_coeff: 0.01  # L1 regularization coefficient
+  use_bias: true  # Whether to use bias in encoder
+
+training:
+  epochs: 100  # Maximum training epochs
+  batch_size: 256  # Training batch size
+  learning_rate: 0.001  # Learning rate
+  weight_decay: 0.0  # L2 regularization
+  patience: 15  # Early stopping patience
+  min_delta: 0.0001  # Minimum improvement for early stopping
+
+analysis:
+  top_k_features: 20  # Number of top features to analyze
+  n_examples: 10  # Number of examples per feature
+  activation_threshold: 0.1  # Minimum activation to consider
+
+paths:
+  data_dir: "data/processed"
+  activation_dir: "data/activations"
+  model_dir: "models/checkpoints"
+  results_dir: "results"
+  
+logging:
+  use_wandb: false  # Whether to use Weights & Biases
+  wandb_project: "sae-conditionals"
+  wandb_entity: null  # Your W&B username/team
+  log_interval: 10  # Log every N epochs
+  save_checkpoints: true  # Save model checkpoints
+  checkpoint_interval: 20  # Save every N epochs
+
+# Experiment variations
+experiments:
+  baseline:
+    description: "Baseline SAE on all conditionals"
+    sparsity_coeff: 0.01
+    hidden_dim: 1024
+  
+  high_sparsity:
+    description: "Higher sparsity for more interpretable features"
+    sparsity_coeff: 0.05
+    hidden_dim: 1024
+  
+  larger_dictionary:
+    description: "Larger feature dictionary"
+    sparsity_coeff: 0.01
+    hidden_dim: 2048
+  
+  focused:
+    description: "Focus only on if-then patterns"
+    sparsity_coeff: 0.02
+    hidden_dim: 512
