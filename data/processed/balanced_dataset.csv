@@ -1,0 +1,801 @@
+text,type,has_conditional
+"If The team runs because of the deadline, then the project succeeds.",complex_conditional,True
+"If it is windy, then we stay inside.",simple_conditional,True
+Mary always writes on weekdays.,control,False
+"If He studies deeply, then everyone is happy.",simple_conditional,True
+He always plays on weekdays.,control,False
+"If it snows, then we go to the beach.",simple_conditional,True
+John reads hard.,control,False
+"If either The team studies or it is sunny, then plans change.",complex_conditional,True
+"If it rains, then school closes.",simple_conditional,True
+"If P implies Y, and P is true, then Y.",logical_conditional,True
+Everyone knows that He reads.,control,False
+Everyone knows that John reads.,control,False
+"If Mary sings and the weather is good, then Mary will run.",complex_conditional,True
+The student always works on weekdays.,control,False
+Everyone knows that They sings.,control,False
+Everyone knows that He reads.,control,False
+He thinks the report.,control,False
+They always works on weekdays.,control,False
+"If A is true, then the conclusion is true.",logical_conditional,True
+"Although The cat sings, if conditions change, then The cat will work.",complex_conditional,True
+"If X and not the conclusion, then contradiction.",logical_conditional,True
+"If They reads and the weather is good, then They will run.",complex_conditional,True
+"If the test is hard, then She will read more.",simple_conditional,True
+"If They works and the weather is good, then They will play.",complex_conditional,True
+She thinks and enjoys it.,control,False
+Everyone knows that He runs.,control,False
+The student always works on weekdays.,control,False
+"If He thinks because of the deadline, then the project succeeds.",complex_conditional,True
+"If She thinks and the weather is good, then She will play.",complex_conditional,True
+"If The cat thinks a song, then everyone is happy.",simple_conditional,True
+John thinks and enjoys it.,control,False
+Everyone knows that The team runs.,control,False
+"If the test is hard, then Mary will run more.",simple_conditional,True
+Everyone knows that He plays.,control,False
+They sings and enjoys it.,control,False
+The student thinks a song.,control,False
+"If P is true, then the conclusion is true.",logical_conditional,True
+"Because of the weather, The cat writes.",control,False
+"If P implies Q, and P is true, then Q.",logical_conditional,True
+"If either The cat writes or it is sunny, then plans change.",complex_conditional,True
+Mary works carefully.,control,False
+"Because of the weather, She runs.",control,False
+The cat reads the book.,control,False
+"Because of the weather, Mary reads.",control,False
+"If the statement is true, then B is true.",logical_conditional,True
+"If She works quickly, then everyone is happy.",simple_conditional,True
+"If Mary studies carefully, then everyone is happy.",simple_conditional,True
+"If the test is hard, then She will play more.",simple_conditional,True
+"If A is true, then Q is true.",logical_conditional,True
+"If X implies the conclusion, and X is true, then the conclusion.",logical_conditional,True
+"Because of the weather, Mary reads.",control,False
+He reads and enjoys it.,control,False
+"If The team thinks carefully, then everyone is happy.",simple_conditional,True
+The student always plays on weekdays.,control,False
+Everyone knows that Mary runs.,control,False
+"Because of the weather, They sings.",control,False
+"If The team thinks because of the deadline, then the project succeeds.",complex_conditional,True
+The team writes and enjoys it.,control,False
+Mary sings deeply.,control,False
+They writes hard.,control,False
+"If P is true, then Q is true.",logical_conditional,True
+"If The student runs because of the deadline, then the project succeeds.",complex_conditional,True
+"If He works because of the deadline, then the project succeeds.",complex_conditional,True
+The team works and enjoys it.,control,False
+Mary studies and enjoys it.,control,False
+"If not A, then Y must be false.",logical_conditional,True
+"Because of the weather, The team writes.",control,False
+"If X is true, then the conclusion is true.",logical_conditional,True
+He thinks hard.,control,False
+"Because of the weather, They studies.",control,False
+"If Mary plays the game, then everyone is happy.",simple_conditional,True
+Everyone knows that The cat reads.,control,False
+"If The cat plays and the weather is good, then The cat will play.",complex_conditional,True
+They thinks carefully.,control,False
+Everyone knows that Mary plays.,control,False
+Mary reads the book.,control,False
+The cat thinks quickly.,control,False
+"If The student writes and the weather is good, then The student will play.",complex_conditional,True
+"If They studies quickly, then everyone is happy.",simple_conditional,True
+"If The cat thinks because of the deadline, then the project succeeds.",complex_conditional,True
+"If They sings and the weather is good, then They will run.",complex_conditional,True
+Mary writes and enjoys it.,control,False
+They thinks deeply.,control,False
+"Because of the weather, He thinks.",control,False
+"If either The student plays or it is cloudy, then plans change.",complex_conditional,True
+"If the test is hard, then He will work more.",simple_conditional,True
+"If The student sings the game, then everyone is happy.",simple_conditional,True
+She reads quickly.,control,False
+The student thinks a song.,control,False
+The team plays deeply.,control,False
+"If X or Y, then at least one holds.",logical_conditional,True
+"If the test is hard, then She will study more.",simple_conditional,True
+The cat always studies on weekdays.,control,False
+She reads a song.,control,False
+"If The student writes and the weather is good, then The student will play.",complex_conditional,True
+"If She writes a song, then everyone is happy.",simple_conditional,True
+"If not X, then the conclusion must be false.",logical_conditional,True
+"If The student writes deeply, then everyone is happy.",simple_conditional,True
+They writes the book.,control,False
+"If The cat plays because of the deadline, then the project succeeds.",complex_conditional,True
+Everyone knows that John studies.,control,False
+"If the test is hard, then They will play more.",simple_conditional,True
+The student always plays on weekdays.,control,False
+Everyone knows that He runs.,control,False
+The student runs the book.,control,False
+John sings quickly.,control,False
+The student works and enjoys it.,control,False
+"If not A, then the conclusion must be false.",logical_conditional,True
+They sings and enjoys it.,control,False
+She reads and enjoys it.,control,False
+"If The team runs and the weather is good, then The team will read.",complex_conditional,True
+"If the test is hard, then John will run more.",simple_conditional,True
+He reads and enjoys it.,control,False
+Everyone knows that He writes.,control,False
+"If the test is hard, then They will study more.",simple_conditional,True
+The cat always reads on weekdays.,control,False
+"If The cat studies a song, then everyone is happy.",simple_conditional,True
+"If not P, then the conclusion must be false.",logical_conditional,True
+"Because of the weather, She plays.",control,False
+She thinks and enjoys it.,control,False
+She writes and enjoys it.,control,False
+"Because of the weather, The cat plays.",control,False
+Mary runs and enjoys it.,control,False
+"If They thinks because of the deadline, then the project succeeds.",complex_conditional,True
+The student runs the report.,control,False
+Mary runs and enjoys it.,control,False
+"If The team writes because of the deadline, then the project succeeds.",complex_conditional,True
+Everyone knows that The cat works.,control,False
+She always runs on weekdays.,control,False
+"If it rains, then traffic increases.",simple_conditional,True
+"If either They writes or it is cloudy, then plans change.",complex_conditional,True
+John always writes on weekdays.,control,False
+She always writes on weekdays.,control,False
+"If Mary plays and the weather is good, then Mary will run.",complex_conditional,True
+Everyone knows that The cat studies.,control,False
+"If the statement or Q, then at least one holds.",logical_conditional,True
+"If the test is hard, then The team will sing more.",simple_conditional,True
+Everyone knows that They plays.,control,False
+"If either Mary writes or it is sunny, then plans change.",complex_conditional,True
+"If either She studies or it snows, then plans change.",complex_conditional,True
+"Because of the weather, The student writes.",control,False
+"If The student studies the book, then everyone is happy.",simple_conditional,True
+"If A or the conclusion, then at least one holds.",logical_conditional,True
+The student always sings on weekdays.,control,False
+She always plays on weekdays.,control,False
+"If it is windy, then the picnic is canceled.",simple_conditional,True
+"Because of the weather, The student plays.",control,False
+"Because of the weather, The cat works.",control,False
+"If either They studies or it snows, then plans change.",complex_conditional,True
+"If She sings because of the deadline, then the project succeeds.",complex_conditional,True
+"If the test is hard, then John will play more.",simple_conditional,True
+The student always runs on weekdays.,control,False
+"If it is cloudy, then school closes.",simple_conditional,True
+"If the test is hard, then The student will sing more.",simple_conditional,True
+"If P implies Y, and P is true, then Y.",logical_conditional,True
+"If P is true, then B is true.",logical_conditional,True
+"If The cat studies because of the deadline, then the project succeeds.",complex_conditional,True
+"If A and not Q, then contradiction.",logical_conditional,True
+"If He reads and the weather is good, then He will read.",complex_conditional,True
+"If the test is hard, then He will run more.",simple_conditional,True
+Everyone knows that The cat thinks.,control,False
+"If it is sunny, then school closes.",simple_conditional,True
+Everyone knows that She writes.,control,False
+The student thinks and enjoys it.,control,False
+"Because of the weather, Mary sings.",control,False
+"Because of the weather, He sings.",control,False
+The team writes the book.,control,False
+The cat reads carefully.,control,False
+The student studies and enjoys it.,control,False
+"If A implies Y, and A is true, then Y.",logical_conditional,True
+They always works on weekdays.,control,False
+"If not X, then B must be false.",logical_conditional,True
+"Because of the weather, They reads.",control,False
+Mary always studies on weekdays.,control,False
+They runs carefully.,control,False
+"If X or the conclusion, then at least one holds.",logical_conditional,True
+He thinks and enjoys it.,control,False
+"If A implies Q, and A is true, then Q.",logical_conditional,True
+"If the test is hard, then They will run more.",simple_conditional,True
+"If the test is hard, then The cat will sing more.",simple_conditional,True
+"If They studies and the weather is good, then They will play.",complex_conditional,True
+"If A or B, then at least one holds.",logical_conditional,True
+"Because of the weather, They studies.",control,False
+"If the statement and not the conclusion, then contradiction.",logical_conditional,True
+"If P or Y, then at least one holds.",logical_conditional,True
+Mary always writes on weekdays.,control,False
+"If the test is hard, then The student will study more.",simple_conditional,True
+"If the statement is true, then B is true.",logical_conditional,True
+"If either They works or it rains, then plans change.",complex_conditional,True
+"If The cat studies because of the deadline, then the project succeeds.",complex_conditional,True
+"If the statement is true, then B is true.",logical_conditional,True
+"If The student plays deeply, then everyone is happy.",simple_conditional,True
+He studies and enjoys it.,control,False
+"If it snows, then we stay inside.",simple_conditional,True
+"If the statement is true, then B is true.",logical_conditional,True
+Mary reads and enjoys it.,control,False
+"If the test is hard, then They will run more.",simple_conditional,True
+Everyone knows that John writes.,control,False
+"If it snows, then we stay inside.",simple_conditional,True
+"If it is sunny, then the game continues.",simple_conditional,True
+Everyone knows that The student plays.,control,False
+Mary reads the game.,control,False
+"Because of the weather, He thinks.",control,False
+"If it is cloudy, then traffic increases.",simple_conditional,True
+They thinks the book.,control,False
+The student reads and enjoys it.,control,False
+Everyone knows that Mary studies.,control,False
+"If the statement is true, then B is true.",logical_conditional,True
+"Because of the weather, Mary writes.",control,False
+"If A and not B, then contradiction.",logical_conditional,True
+"If X or Y, then at least one holds.",logical_conditional,True
+The cat thinks and enjoys it.,control,False
+The team works deeply.,control,False
+"Because of the weather, He thinks.",control,False
+The cat reads and enjoys it.,control,False
+The cat writes and enjoys it.,control,False
+"If The student runs the game, then everyone is happy.",simple_conditional,True
+The student always plays on weekdays.,control,False
+The cat reads carefully.,control,False
+"If the test is hard, then The cat will work more.",simple_conditional,True
+"If the test is hard, then The student will study more.",simple_conditional,True
+"Because of the weather, John thinks.",control,False
+"If the statement and not Q, then contradiction.",logical_conditional,True
+John sings and enjoys it.,control,False
+The student studies and enjoys it.,control,False
+"If not X, then the conclusion must be false.",logical_conditional,True
+"Because of the weather, They plays.",control,False
+"If it snows, then school closes.",simple_conditional,True
+"If the statement or B, then at least one holds.",logical_conditional,True
+The cat always works on weekdays.,control,False
+"If the test is hard, then The team will sing more.",simple_conditional,True
+The team studies quickly.,control,False
+Everyone knows that The cat studies.,control,False
+The cat runs hard.,control,False
+The team writes the book.,control,False
+They always writes on weekdays.,control,False
+"If the statement or the conclusion, then at least one holds.",logical_conditional,True
+Everyone knows that The cat reads.,control,False
+"Because of the weather, He sings.",control,False
+The cat studies and enjoys it.,control,False
+"If either She reads or it rains, then plans change.",complex_conditional,True
+"If it rains, then we go to the beach.",simple_conditional,True
+"If P implies B, and P is true, then B.",logical_conditional,True
+"If She plays and the weather is good, then She will run.",complex_conditional,True
+The team always sings on weekdays.,control,False
+"If either The team thinks or it rains, then plans change.",complex_conditional,True
+John reads and enjoys it.,control,False
+John always thinks on weekdays.,control,False
+They sings the book.,control,False
+Everyone knows that He works.,control,False
+"If either They runs or it snows, then plans change.",complex_conditional,True
+"If not P, then the conclusion must be false.",logical_conditional,True
+She works and enjoys it.,control,False
+The student studies a song.,control,False
+"If the test is hard, then They will read more.",simple_conditional,True
+Mary works and enjoys it.,control,False
+"Because of the weather, They plays.",control,False
+"If She works because of the deadline, then the project succeeds.",complex_conditional,True
+John plays hard.,control,False
+Everyone knows that John runs.,control,False
+He always thinks on weekdays.,control,False
+"Because of the weather, The cat writes.",control,False
+"If the statement or the conclusion, then at least one holds.",logical_conditional,True
+"If either Mary works or it is cloudy, then plans change.",complex_conditional,True
+"If They writes because of the deadline, then the project succeeds.",complex_conditional,True
+She writes hard.,control,False
+Mary works and enjoys it.,control,False
+She always runs on weekdays.,control,False
+"If either He plays or it rains, then plans change.",complex_conditional,True
+"If not P, then B must be false.",logical_conditional,True
+Everyone knows that Mary reads.,control,False
+Everyone knows that Mary works.,control,False
+"If either They runs or it is windy, then plans change.",complex_conditional,True
+"Because of the weather, The cat writes.",control,False
+"If X implies the conclusion, and X is true, then the conclusion.",logical_conditional,True
+They sings and enjoys it.,control,False
+"If A or B, then at least one holds.",logical_conditional,True
+"If the statement is true, then Y is true.",logical_conditional,True
+"Because of the weather, Mary thinks.",control,False
+"If A or Q, then at least one holds.",logical_conditional,True
+"If it is windy, then the game continues.",simple_conditional,True
+Everyone knows that John writes.,control,False
+Mary plays and enjoys it.,control,False
+"If not X, then B must be false.",logical_conditional,True
+"If John reads carefully, then everyone is happy.",simple_conditional,True
+The cat sings and enjoys it.,control,False
+"If the test is hard, then The student will read more.",simple_conditional,True
+Everyone knows that The team plays.,control,False
+Mary studies and enjoys it.,control,False
+"Because of the weather, The cat thinks.",control,False
+"If it rains, then we stay inside.",simple_conditional,True
+"If X and not the conclusion, then contradiction.",logical_conditional,True
+"Because of the weather, Mary runs.",control,False
+"If She reads the game, then everyone is happy.",simple_conditional,True
+"If The team reads deeply, then everyone is happy.",simple_conditional,True
+"Because of the weather, He plays.",control,False
+They always plays on weekdays.,control,False
+She always studies on weekdays.,control,False
+She reads and enjoys it.,control,False
+"If not X, then Y must be false.",logical_conditional,True
+Mary thinks hard.,control,False
+"If She thinks the report, then everyone is happy.",simple_conditional,True
+"If not the statement, then Q must be false.",logical_conditional,True
+"If She plays because of the deadline, then the project succeeds.",complex_conditional,True
+"If The cat works and the weather is good, then The cat will read.",complex_conditional,True
+"If She writes quickly, then everyone is happy.",simple_conditional,True
+"If either Mary studies or it rains, then plans change.",complex_conditional,True
+Everyone knows that The cat works.,control,False
+"If The team writes carefully, then everyone is happy.",simple_conditional,True
+The cat thinks and enjoys it.,control,False
+The student always works on weekdays.,control,False
+The cat studies the game.,control,False
+"If either They plays or it is cloudy, then plans change.",complex_conditional,True
+"If The team plays and the weather is good, then The team will work.",complex_conditional,True
+"If the test is hard, then He will play more.",simple_conditional,True
+"Because of the weather, They runs.",control,False
+"If John runs deeply, then everyone is happy.",simple_conditional,True
+"If She works and the weather is good, then She will run.",complex_conditional,True
+They thinks and enjoys it.,control,False
+"If John reads a song, then everyone is happy.",simple_conditional,True
+"Although The cat sings, if conditions change, then The cat will run.",complex_conditional,True
+They plays carefully.,control,False
+"If Mary reads the game, then everyone is happy.",simple_conditional,True
+"If it is sunny, then we stay inside.",simple_conditional,True
+The team always plays on weekdays.,control,False
+Mary always reads on weekdays.,control,False
+Everyone knows that John studies.,control,False
+"Because of the weather, The student studies.",control,False
+"If A or Q, then at least one holds.",logical_conditional,True
+"Although The team reads, if conditions change, then The team will play.",complex_conditional,True
+The cat sings the book.,control,False
+"If P or B, then at least one holds.",logical_conditional,True
+"If either John studies or it snows, then plans change.",complex_conditional,True
+"If the test is hard, then The team will sing more.",simple_conditional,True
+"If the test is hard, then The student will read more.",simple_conditional,True
+"Because of the weather, She works.",control,False
+"If the test is hard, then They will play more.",simple_conditional,True
+"Because of the weather, They plays.",control,False
+John always studies on weekdays.,control,False
+The team studies and enjoys it.,control,False
+"Because of the weather, The cat sings.",control,False
+"If John studies because of the deadline, then the project succeeds.",complex_conditional,True
+"If X or the conclusion, then at least one holds.",logical_conditional,True
+"If it is windy, then we stay inside.",simple_conditional,True
+"If Mary writes the report, then everyone is happy.",simple_conditional,True
+The student writes deeply.,control,False
+"If He studies quickly, then everyone is happy.",simple_conditional,True
+"Because of the weather, He works.",control,False
+"Because of the weather, The student runs.",control,False
+They works and enjoys it.,control,False
+"If either She studies or it snows, then plans change.",complex_conditional,True
+The cat always plays on weekdays.,control,False
+"If P and not the conclusion, then contradiction.",logical_conditional,True
+They sings and enjoys it.,control,False
+"Because of the weather, The student works.",control,False
+"If John runs because of the deadline, then the project succeeds.",complex_conditional,True
+He always sings on weekdays.,control,False
+He works quickly.,control,False
+They thinks hard.,control,False
+"If She plays and the weather is good, then She will play.",complex_conditional,True
+"If the test is hard, then They will read more.",simple_conditional,True
+Mary always plays on weekdays.,control,False
+The student works the game.,control,False
+"If They writes and the weather is good, then They will work.",complex_conditional,True
+The student always thinks on weekdays.,control,False
+The cat writes and enjoys it.,control,False
+The team studies the report.,control,False
+"Because of the weather, The student plays.",control,False
+"If it is windy, then the picnic is canceled.",simple_conditional,True
+They always thinks on weekdays.,control,False
+Mary works the report.,control,False
+"If either She sings or it is sunny, then plans change.",complex_conditional,True
+Everyone knows that John runs.,control,False
+The cat studies a song.,control,False
+"Because of the weather, She studies.",control,False
+"Although They sings, if conditions change, then They will study.",complex_conditional,True
+"If P is true, then the conclusion is true.",logical_conditional,True
+"If The team runs quickly, then everyone is happy.",simple_conditional,True
+"Although The student plays, if conditions change, then The student will sing.",complex_conditional,True
+Everyone knows that They thinks.,control,False
+"If She thinks because of the deadline, then the project succeeds.",complex_conditional,True
+Everyone knows that The team plays.,control,False
+"Because of the weather, The student sings.",control,False
+"Although He works, if conditions change, then He will run.",complex_conditional,True
+"If A or the conclusion, then at least one holds.",logical_conditional,True
+"If either The cat sings or it is sunny, then plans change.",complex_conditional,True
+She always plays on weekdays.,control,False
+Mary always runs on weekdays.,control,False
+"If it rains, then the picnic is canceled.",simple_conditional,True
+Everyone knows that She plays.,control,False
+"If He works a song, then everyone is happy.",simple_conditional,True
+"If A implies the conclusion, and A is true, then the conclusion.",logical_conditional,True
+"If John writes deeply, then everyone is happy.",simple_conditional,True
+"If P is true, then Y is true.",logical_conditional,True
+Everyone knows that They thinks.,control,False
+John always thinks on weekdays.,control,False
+"If The team runs and the weather is good, then The team will work.",complex_conditional,True
+The team plays and enjoys it.,control,False
+Everyone knows that They works.,control,False
+"If The team sings because of the deadline, then the project succeeds.",complex_conditional,True
+"Because of the weather, The student runs.",control,False
+He always writes on weekdays.,control,False
+Everyone knows that The cat works.,control,False
+"If The team thinks and the weather is good, then The team will study.",complex_conditional,True
+Everyone knows that The team runs.,control,False
+They runs the report.,control,False
+"If The cat runs because of the deadline, then the project succeeds.",complex_conditional,True
+"If They thinks the game, then everyone is happy.",simple_conditional,True
+He runs and enjoys it.,control,False
+"Because of the weather, The student works.",control,False
+"If either They sings or it is sunny, then plans change.",complex_conditional,True
+"If She studies because of the deadline, then the project succeeds.",complex_conditional,True
+"Because of the weather, They thinks.",control,False
+"If The student studies and the weather is good, then The student will sing.",complex_conditional,True
+"If it rains, then we go to the beach.",simple_conditional,True
+"If The cat runs a song, then everyone is happy.",simple_conditional,True
+"If not X, then Q must be false.",logical_conditional,True
+She always runs on weekdays.,control,False
+They always runs on weekdays.,control,False
+"If The student works and the weather is good, then The student will work.",complex_conditional,True
+"If A or Q, then at least one holds.",logical_conditional,True
+"If X and not Q, then contradiction.",logical_conditional,True
+Everyone knows that They sings.,control,False
+Mary thinks and enjoys it.,control,False
+"If the test is hard, then The cat will study more.",simple_conditional,True
+"If Mary runs and the weather is good, then Mary will study.",complex_conditional,True
+"Because of the weather, Mary thinks.",control,False
+"If John works because of the deadline, then the project succeeds.",complex_conditional,True
+Everyone knows that He sings.,control,False
+"Although The team writes, if conditions change, then The team will sing.",complex_conditional,True
+"If it snows, then we go to the beach.",simple_conditional,True
+"If not the statement, then Q must be false.",logical_conditional,True
+She always plays on weekdays.,control,False
+Everyone knows that She writes.,control,False
+"If the test is hard, then The team will read more.",simple_conditional,True
+Everyone knows that The cat works.,control,False
+He thinks quickly.,control,False
+The team always plays on weekdays.,control,False
+Everyone knows that The cat plays.,control,False
+John reads the book.,control,False
+"Because of the weather, They runs.",control,False
+Mary plays the book.,control,False
+She runs the report.,control,False
+"If the statement is true, then B is true.",logical_conditional,True
+"Because of the weather, The cat plays.",control,False
+They works and enjoys it.,control,False
+"If A implies Y, and A is true, then Y.",logical_conditional,True
+"Because of the weather, Mary thinks.",control,False
+"If it is sunny, then the picnic is canceled.",simple_conditional,True
+"Although John thinks, if conditions change, then John will read.",complex_conditional,True
+Mary reads hard.,control,False
+"Because of the weather, He reads.",control,False
+Mary sings a song.,control,False
+"If the statement and not B, then contradiction.",logical_conditional,True
+Everyone knows that They writes.,control,False
+"Because of the weather, The student studies.",control,False
+He reads and enjoys it.,control,False
+They runs and enjoys it.,control,False
+Everyone knows that He sings.,control,False
+"If A and not Q, then contradiction.",logical_conditional,True
+"If either She writes or it rains, then plans change.",complex_conditional,True
+"If the statement implies the conclusion, and the statement is true, then the conclusion.",logical_conditional,True
+"Because of the weather, John sings.",control,False
+"If either The student reads or it is sunny, then plans change.",complex_conditional,True
+Everyone knows that The cat studies.,control,False
+"Because of the weather, The student plays.",control,False
+"If not X, then the conclusion must be false.",logical_conditional,True
+"If the statement and not Y, then contradiction.",logical_conditional,True
+He sings a song.,control,False
+"If either He thinks or it rains, then plans change.",complex_conditional,True
+John studies a song.,control,False
+The student works deeply.,control,False
+"If She studies deeply, then everyone is happy.",simple_conditional,True
+She works a song.,control,False
+Everyone knows that The team studies.,control,False
+"If The team runs because of the deadline, then the project succeeds.",complex_conditional,True
+The cat reads hard.,control,False
+"If The student thinks because of the deadline, then the project succeeds.",complex_conditional,True
+She studies hard.,control,False
+They works and enjoys it.,control,False
+The student sings and enjoys it.,control,False
+They always runs on weekdays.,control,False
+He works and enjoys it.,control,False
+John runs quickly.,control,False
+"If John works the report, then everyone is happy.",simple_conditional,True
+"If A and not Y, then contradiction.",logical_conditional,True
+"If it is sunny, then school closes.",simple_conditional,True
+"If They sings and the weather is good, then They will work.",complex_conditional,True
+"If A is true, then Y is true.",logical_conditional,True
+"Because of the weather, They plays.",control,False
+Everyone knows that She runs.,control,False
+"If They reads because of the deadline, then the project succeeds.",complex_conditional,True
+"If the test is hard, then The student will work more.",simple_conditional,True
+"If not the statement, then Y must be false.",logical_conditional,True
+"Because of the weather, John studies.",control,False
+"Because of the weather, The team studies.",control,False
+He thinks and enjoys it.,control,False
+"If either They thinks or it snows, then plans change.",complex_conditional,True
+"If He works because of the deadline, then the project succeeds.",complex_conditional,True
+"If P and not Q, then contradiction.",logical_conditional,True
+"If it is cloudy, then the picnic is canceled.",simple_conditional,True
+"If it is sunny, then we go to the beach.",simple_conditional,True
+"If X or Y, then at least one holds.",logical_conditional,True
+"If the statement implies Y, and the statement is true, then Y.",logical_conditional,True
+The team thinks the game.,control,False
+"If They studies and the weather is good, then They will read.",complex_conditional,True
+Everyone knows that They works.,control,False
+"Although The cat thinks, if conditions change, then The cat will play.",complex_conditional,True
+He writes the game.,control,False
+"If She works because of the deadline, then the project succeeds.",complex_conditional,True
+He runs the book.,control,False
+He thinks the book.,control,False
+"If P implies B, and P is true, then B.",logical_conditional,True
+John always reads on weekdays.,control,False
+"If it is windy, then the picnic is canceled.",simple_conditional,True
+"If the test is hard, then The team will read more.",simple_conditional,True
+"If A is true, then B is true.",logical_conditional,True
+"Because of the weather, The team reads.",control,False
+"If P or the conclusion, then at least one holds.",logical_conditional,True
+Everyone knows that She sings.,control,False
+Everyone knows that The student sings.,control,False
+"Although He sings, if conditions change, then He will read.",complex_conditional,True
+"If not A, then B must be false.",logical_conditional,True
+He plays and enjoys it.,control,False
+John always plays on weekdays.,control,False
+They thinks hard.,control,False
+"If The cat studies quickly, then everyone is happy.",simple_conditional,True
+The team studies and enjoys it.,control,False
+"If A and not Y, then contradiction.",logical_conditional,True
+"If A and not Y, then contradiction.",logical_conditional,True
+"If X or Y, then at least one holds.",logical_conditional,True
+"If They studies because of the deadline, then the project succeeds.",complex_conditional,True
+"Because of the weather, The student works.",control,False
+"If it snows, then the picnic is canceled.",simple_conditional,True
+"If The cat sings and the weather is good, then The cat will work.",complex_conditional,True
+"Although They runs, if conditions change, then They will read.",complex_conditional,True
+"Although John works, if conditions change, then John will sing.",complex_conditional,True
+"If X is true, then Y is true.",logical_conditional,True
+"If The team reads the game, then everyone is happy.",simple_conditional,True
+Everyone knows that Mary writes.,control,False
+"If the test is hard, then She will run more.",simple_conditional,True
+"Because of the weather, He sings.",control,False
+"If P is true, then Y is true.",logical_conditional,True
+"If not A, then Y must be false.",logical_conditional,True
+"If She sings quickly, then everyone is happy.",simple_conditional,True
+Mary reads and enjoys it.,control,False
+Everyone knows that He writes.,control,False
+"If X or Y, then at least one holds.",logical_conditional,True
+The team reads the book.,control,False
+"If The team reads a song, then everyone is happy.",simple_conditional,True
+"Although The student reads, if conditions change, then The student will run.",complex_conditional,True
+The team works and enjoys it.,control,False
+Mary sings the report.,control,False
+John sings the game.,control,False
+"If the statement is true, then Q is true.",logical_conditional,True
+"If X or Q, then at least one holds.",logical_conditional,True
+Everyone knows that The student plays.,control,False
+"If not X, then B must be false.",logical_conditional,True
+"If Mary works and the weather is good, then Mary will sing.",complex_conditional,True
+He always thinks on weekdays.,control,False
+"If the test is hard, then The student will work more.",simple_conditional,True
+John studies and enjoys it.,control,False
+"Although The cat runs, if conditions change, then The cat will read.",complex_conditional,True
+Everyone knows that The team studies.,control,False
+He plays hard.,control,False
+"If the test is hard, then Mary will read more.",simple_conditional,True
+"If the statement implies the conclusion, and the statement is true, then the conclusion.",logical_conditional,True
+"If The team writes and the weather is good, then The team will read.",complex_conditional,True
+John runs and enjoys it.,control,False
+They always plays on weekdays.,control,False
+"If it is sunny, then we stay inside.",simple_conditional,True
+Everyone knows that Mary reads.,control,False
+"If X and not B, then contradiction.",logical_conditional,True
+"If the test is hard, then She will work more.",simple_conditional,True
+"If She reads because of the deadline, then the project succeeds.",complex_conditional,True
+"If They sings and the weather is good, then They will run.",complex_conditional,True
+"Because of the weather, The cat plays.",control,False
+"Because of the weather, The student sings.",control,False
+"If the test is hard, then John will study more.",simple_conditional,True
+"If the test is hard, then John will sing more.",simple_conditional,True
+"If it is cloudy, then we stay inside.",simple_conditional,True
+"Because of the weather, Mary reads.",control,False
+"If The cat plays because of the deadline, then the project succeeds.",complex_conditional,True
+Mary reads a song.,control,False
+"Because of the weather, She sings.",control,False
+He studies and enjoys it.,control,False
+"If X and not B, then contradiction.",logical_conditional,True
+Everyone knows that The student reads.,control,False
+"If X is true, then Q is true.",logical_conditional,True
+They reads and enjoys it.,control,False
+The student always thinks on weekdays.,control,False
+The cat writes and enjoys it.,control,False
+"If not P, then Y must be false.",logical_conditional,True
+The student runs deeply.,control,False
+John works quickly.,control,False
+"Because of the weather, John studies.",control,False
+"If the test is hard, then The student will work more.",simple_conditional,True
+They always sings on weekdays.,control,False
+"If He runs and the weather is good, then He will play.",complex_conditional,True
+"Although He thinks, if conditions change, then He will run.",complex_conditional,True
+He works and enjoys it.,control,False
+"If either John studies or it is windy, then plans change.",complex_conditional,True
+"If P is true, then Y is true.",logical_conditional,True
+"If not P, then the conclusion must be false.",logical_conditional,True
+"If either They works or it is windy, then plans change.",complex_conditional,True
+The cat plays quickly.,control,False
+"If A and not Y, then contradiction.",logical_conditional,True
+"If The student thinks because of the deadline, then the project succeeds.",complex_conditional,True
+"If either They runs or it is sunny, then plans change.",complex_conditional,True
+"If They reads because of the deadline, then the project succeeds.",complex_conditional,True
+The team plays deeply.,control,False
+"If X is true, then the conclusion is true.",logical_conditional,True
+"If A and not B, then contradiction.",logical_conditional,True
+Everyone knows that The cat studies.,control,False
+"If The cat writes hard, then everyone is happy.",simple_conditional,True
+"If not the statement, then B must be false.",logical_conditional,True
+"If the test is hard, then They will play more.",simple_conditional,True
+The student runs and enjoys it.,control,False
+John always reads on weekdays.,control,False
+"If it is cloudy, then we go to the beach.",simple_conditional,True
+"If X is true, then Q is true.",logical_conditional,True
+Everyone knows that The student writes.,control,False
+Everyone knows that They sings.,control,False
+"If P or B, then at least one holds.",logical_conditional,True
+She always works on weekdays.,control,False
+"If X is true, then Q is true.",logical_conditional,True
+"If Mary studies because of the deadline, then the project succeeds.",complex_conditional,True
+John writes and enjoys it.,control,False
+Mary studies the report.,control,False
+"If the statement and not the conclusion, then contradiction.",logical_conditional,True
+Mary studies a song.,control,False
+She thinks and enjoys it.,control,False
+Everyone knows that He runs.,control,False
+Everyone knows that They works.,control,False
+"If not X, then the conclusion must be false.",logical_conditional,True
+"If X is true, then the conclusion is true.",logical_conditional,True
+"If the statement and not the conclusion, then contradiction.",logical_conditional,True
+"Because of the weather, He writes.",control,False
+"If the test is hard, then He will read more.",simple_conditional,True
+"If He sings deeply, then everyone is happy.",simple_conditional,True
+"If not A, then Q must be false.",logical_conditional,True
+"If it is windy, then we stay inside.",simple_conditional,True
+"If X or Y, then at least one holds.",logical_conditional,True
+"If the test is hard, then They will read more.",simple_conditional,True
+"Although They runs, if conditions change, then They will sing.",complex_conditional,True
+"If P implies Y, and P is true, then Y.",logical_conditional,True
+"If John reads because of the deadline, then the project succeeds.",complex_conditional,True
+"If not A, then Y must be false.",logical_conditional,True
+"If They runs because of the deadline, then the project succeeds.",complex_conditional,True
+He studies and enjoys it.,control,False
+She runs carefully.,control,False
+John always runs on weekdays.,control,False
+"If either The team plays or it is windy, then plans change.",complex_conditional,True
+She plays and enjoys it.,control,False
+"If not X, then Q must be false.",logical_conditional,True
+"Because of the weather, He runs.",control,False
+"If He sings and the weather is good, then He will sing.",complex_conditional,True
+"If it is windy, then the game continues.",simple_conditional,True
+"If not A, then Q must be false.",logical_conditional,True
+"If it rains, then the game continues.",simple_conditional,True
+He writes deeply.,control,False
+"If the statement is true, then the conclusion is true.",logical_conditional,True
+She reads the game.,control,False
+"If the statement and not Y, then contradiction.",logical_conditional,True
+"If The team sings and the weather is good, then The team will study.",complex_conditional,True
+"If the statement is true, then Y is true.",logical_conditional,True
+"If not the statement, then Y must be false.",logical_conditional,True
+She always works on weekdays.,control,False
+She always reads on weekdays.,control,False
+"Because of the weather, Mary runs.",control,False
+"If The cat studies carefully, then everyone is happy.",simple_conditional,True
+Mary always writes on weekdays.,control,False
+Everyone knows that The student thinks.,control,False
+"If She thinks because of the deadline, then the project succeeds.",complex_conditional,True
+"If the statement and not Q, then contradiction.",logical_conditional,True
+"If P implies B, and P is true, then B.",logical_conditional,True
+"If A implies Q, and A is true, then Q.",logical_conditional,True
+John writes and enjoys it.,control,False
+"If P implies B, and P is true, then B.",logical_conditional,True
+"Although She plays, if conditions change, then She will run.",complex_conditional,True
+"If it is windy, then we stay inside.",simple_conditional,True
+She always works on weekdays.,control,False
+He writes and enjoys it.,control,False
+He thinks carefully.,control,False
+He sings and enjoys it.,control,False
+The team reads a song.,control,False
+"If either She works or it is cloudy, then plans change.",complex_conditional,True
+The team writes the report.,control,False
+"If not P, then the conclusion must be false.",logical_conditional,True
+Everyone knows that Mary runs.,control,False
+The cat writes hard.,control,False
+"If The student works the book, then everyone is happy.",simple_conditional,True
+"If either The team works or it is windy, then plans change.",complex_conditional,True
+Everyone knows that Mary thinks.,control,False
+"Although The team reads, if conditions change, then The team will run.",complex_conditional,True
+"If X or the conclusion, then at least one holds.",logical_conditional,True
+Everyone knows that The team writes.,control,False
+"Because of the weather, The student studies.",control,False
+"If not the statement, then Q must be false.",logical_conditional,True
+"If not the statement, then Y must be false.",logical_conditional,True
+John always reads on weekdays.,control,False
+"If the test is hard, then Mary will play more.",simple_conditional,True
+"If the test is hard, then The cat will run more.",simple_conditional,True
+"Because of the weather, She thinks.",control,False
+"Because of the weather, The team thinks.",control,False
+She sings hard.,control,False
+"Because of the weather, She runs.",control,False
+"If X implies the conclusion, and X is true, then the conclusion.",logical_conditional,True
+Everyone knows that They sings.,control,False
+They always thinks on weekdays.,control,False
+"Because of the weather, John plays.",control,False
+"Because of the weather, John thinks.",control,False
+Mary always plays on weekdays.,control,False
+"Because of the weather, She writes.",control,False
+"If He works deeply, then everyone is happy.",simple_conditional,True
+The student always writes on weekdays.,control,False
+"If not X, then the conclusion must be false.",logical_conditional,True
+"If P and not Y, then contradiction.",logical_conditional,True
+"If The cat sings because of the deadline, then the project succeeds.",complex_conditional,True
+He sings hard.,control,False
+The cat always works on weekdays.,control,False
+Mary plays and enjoys it.,control,False
+"If A is true, then the conclusion is true.",logical_conditional,True
+"If the test is hard, then They will play more.",simple_conditional,True
+"If it is sunny, then we go to the beach.",simple_conditional,True
+"Although The team reads, if conditions change, then The team will read.",complex_conditional,True
+The student reads deeply.,control,False
+"If it is sunny, then we go to the beach.",simple_conditional,True
+Mary always writes on weekdays.,control,False
+John always writes on weekdays.,control,False
+"If X implies Q, and X is true, then Q.",logical_conditional,True
+"If it is cloudy, then we stay inside.",simple_conditional,True
+John works and enjoys it.,control,False
+"Because of the weather, They runs.",control,False
+The team always writes on weekdays.,control,False
+"If P and not B, then contradiction.",logical_conditional,True
+"If not P, then Q must be false.",logical_conditional,True
+"If the test is hard, then The team will run more.",simple_conditional,True
+Everyone knows that John writes.,control,False
+The team reads and enjoys it.,control,False
+He reads and enjoys it.,control,False
+"If either They writes or it is cloudy, then plans change.",complex_conditional,True
+"Because of the weather, Mary works.",control,False
+The cat studies and enjoys it.,control,False
+Everyone knows that The student sings.,control,False
+Everyone knows that The student studies.,control,False
+"If the test is hard, then Mary will run more.",simple_conditional,True
+They always works on weekdays.,control,False
+She reads and enjoys it.,control,False
+"Because of the weather, John plays.",control,False
+"If either He works or it is cloudy, then plans change.",complex_conditional,True
+"If it snows, then traffic increases.",simple_conditional,True
+"If either The cat works or it is windy, then plans change.",complex_conditional,True
+"If The student plays the book, then everyone is happy.",simple_conditional,True
+"If P or Q, then at least one holds.",logical_conditional,True
+Mary always sings on weekdays.,control,False
+"If the test is hard, then He will study more.",simple_conditional,True
+"If either The student runs or it is windy, then plans change.",complex_conditional,True
+"If John studies the report, then everyone is happy.",simple_conditional,True
+Everyone knows that The student reads.,control,False
+"If X implies the conclusion, and X is true, then the conclusion.",logical_conditional,True
+"If the test is hard, then They will study more.",simple_conditional,True
+"If not P, then Y must be false.",logical_conditional,True
+"If The student writes because of the deadline, then the project succeeds.",complex_conditional,True
+"Because of the weather, She studies.",control,False
+"Although The student thinks, if conditions change, then The student will run.",complex_conditional,True
+"If X and not B, then contradiction.",logical_conditional,True
+"If it is cloudy, then traffic increases.",simple_conditional,True
+Everyone knows that She writes.,control,False
+"Because of the weather, The cat writes.",control,False
+The student studies and enjoys it.,control,False
+"If She studies because of the deadline, then the project succeeds.",complex_conditional,True
+He always sings on weekdays.,control,False
+The team always sings on weekdays.,control,False
+He works and enjoys it.,control,False
+Everyone knows that He studies.,control,False
+"If The team reads because of the deadline, then the project succeeds.",complex_conditional,True
+"Although Mary plays, if conditions change, then Mary will study.",complex_conditional,True
+They studies and enjoys it.,control,False
+"If X and not Q, then contradiction.",logical_conditional,True
+The student plays and enjoys it.,control,False
+"If the test is hard, then He will read more.",simple_conditional,True
+"Because of the weather, Mary runs.",control,False
+"If X implies the conclusion, and X is true, then the conclusion.",logical_conditional,True
+"Because of the weather, The team works.",control,False
+The cat always sings on weekdays.,control,False
+"Because of the weather, She plays.",control,False
+"If John writes carefully, then everyone is happy.",simple_conditional,True
+"Because of the weather, The student thinks.",control,False
+Mary works a song.,control,False
+"If A is true, then the conclusion is true.",logical_conditional,True
+"Because of the weather, He thinks.",control,False
+"If They sings because of the deadline, then the project succeeds.",complex_conditional,True
+She always thinks on weekdays.,control,False
+"If He thinks the book, then everyone is happy.",simple_conditional,True
+Mary works a song.,control,False
+"Because of the weather, Mary sings.",control,False
+John plays and enjoys it.,control,False
+"If it snows, then the picnic is canceled.",simple_conditional,True
+He always sings on weekdays.,control,False

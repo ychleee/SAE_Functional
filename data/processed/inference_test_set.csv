@@ -1,0 +1,5 @@
+premise,fact,conclusion,valid,type
+"If it rains, then the ground is wet.",It rains.,The ground is wet.,True,modus_ponens
+"If the light is on, then someone is home.",The light is on.,Someone is home.,True,modus_ponens
+"If it rains, then the ground is wet.",The ground is wet.,It rains.,False,affirming_consequent
+"If it rains, then the ground is wet.",The ground is not wet.,It does not rain.,True,modus_tollens
