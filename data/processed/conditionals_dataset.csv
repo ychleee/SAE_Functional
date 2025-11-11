@@ -1,6 +1,6 @@
 text,type,has_conditional
 "If the statement and not the conclusion, then contradiction.",logical_conditional,True
-"If P and not B, then contradiction.",logical_conditional,True
+"If P and not P, then contradiction.",logical_conditional,True
 The team studies the report.,control,False
 She reads and enjoys it.,control,False
 "If it is cloudy, then we go to the beach.",simple_conditional,True

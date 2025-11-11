@@ -1,0 +1,196 @@
+text,type,has_conditional
+Grocery stores stock their shelves with fresh produce.,control,False
+"If a new trade agreement is signed, then the cost of certain goods may decrease.",predictive_conditional,True
+"If the train arrives on time, then I'll be able to make it to the conference before it starts.",temporal_conditional,True
+"If a new housing development is built, then property values in the surrounding area may increase.",predictive_conditional,True
+"If you're in a crowded area, then you should be mindful of your surroundings and avoid bumping into or inconveniencing others.",social_conditional,True
+"If someone holds the door for you, then you should say ""thank you"" to acknowledge their kindness.",social_conditional,True
+"Clouds float across the sky, constantly changing shapes.",control,False
+"If you eat a healthy, balanced diet, then you will have more energy and feel better.",causal_conditional,True
+"If the stock market experiences a significant downturn, then investors may see a decline in their portfolio values.",predictive_conditional,True
+"If a set is open, then its complement is closed.",logical_conditional,True
+"If you don't clean up spills immediately, then they can cause damage or create a safety hazard.",causal_conditional,True
+The flowers in the garden bloom in a variety of colors.,control,False
+The teacher explains the lesson to the attentive students.,control,False
+The family gathers around the table for a home-cooked meal.,control,False
+"The rain pours down heavily, creating puddles on the sidewalk.",control,False
+"The sound of a lawn mower cuts through the air, as residents maintain their well-groomed yards.",control,False
+The waves crash against the rocks along the shoreline.,control,False
+"The library shelves hold a wealth of knowledge, ready to be explored by curious readers.",control,False
+Flowers bloom with vibrant colors in the springtime.,control,False
+"If the new employee starts on Monday, then we'll need to schedule an orientation.",temporal_conditional,True
+"The clock strikes the hour, marking the passage of time.",control,False
+"If the flight is delayed, then I'll have to change my transportation arrangements.",temporal_conditional,True
+"If a number is divisible by 3, then it is also divisible by 1.",logical_conditional,True
+"If a new law is passed, then certain industries may be affected more than others.",predictive_conditional,True
+"People wait in line at the grocery store, patiently taking their turn.",control,False
+"If a popular celebrity endorses a product, then sales of that product are likely to increase.",predictive_conditional,True
+"If a number is prime, then it has no positive divisors other than 1 and itself.",logical_conditional,True
+"If you're invited to a potluck, then you should bring a dish that is ready to serve and labeled with any allergens.",social_conditional,True
+"If a function is one-to-one, then it has an inverse function.",logical_conditional,True
+Dishes clatter in the kitchen as someone prepares a home-cooked meal.,control,False
+People commute to work using various modes of transportation.,control,False
+"Families gather around the dinner table, sharing stories and laughter.",control,False
+"If a new educational program is launched, then the job market for related fields may change.",predictive_conditional,True
+The car needs to be refueled before the next long trip.,control,False
+"If you exercise regularly, then you will improve your cardiovascular health.",causal_conditional,True
+"The clock ticks steadily, marking the passage of time.",control,False
+"If a triangle has three equal sides, then it is an equilateral triangle.",logical_conditional,True
+The grocery store shelves are stocked with a wide selection of products.,control,False
+The aroma of freshly baked bread fills the kitchen.,control,False
+"If you don't pay your bills on time, then you may incur late fees or damage your credit score.",causal_conditional,True
+"If you're running late for a meeting, then you should send a quick message to the organizer to inform them.",social_conditional,True
+"If the appointment is rescheduled, then I'll need to adjust my calendar.",temporal_conditional,True
+The cat sleeps on the couch for hours at a time.,control,False
+Cats often nap in sunny spots throughout the day.,control,False
+"The ocean waves crash against the shore, creating a soothing sound.",control,False
+"Children play on the swings, their laughter filling the air.",control,False
+"If you don't budget your finances carefully, then you may struggle to save money or pay your bills on time.",causal_conditional,True
+"If you don't get enough sleep, then you may feel tired and unfocused the next day.",causal_conditional,True
+"If a new transportation option is introduced, then the demand for traditional modes of transportation may change.",predictive_conditional,True
+"Joggers pass by the park, their steady footsteps echoing on the pavement.",control,False
+The park is alive with the laughter of children playing on the swings and slides.,control,False
+"If a set is finite, then it has a maximum and a minimum element.",logical_conditional,True
+"If you leave the tap running, then you will waste a significant amount of water.",causal_conditional,True
+"Raindrops patter against the windowpane, creating a rhythmic melody.",control,False
+"Leaves rustle in the gentle breeze, signaling the change of seasons.",control,False
+"If a function is differentiable, then it is also continuous.",logical_conditional,True
+"The city skyline stands tall, a testament to the ingenuity and progress of human endeavors.",control,False
+"If a new medical treatment is approved, then the cost of healthcare may be affected.",predictive_conditional,True
+Cats nap for several hours throughout the day.,control,False
+"If you're in a quiet public setting, then you should speak softly and avoid disruptive behavior to be considerate of others.",social_conditional,True
+Children play on the swings at the neighborhood park.,control,False
+People wait in line at the bank to deposit their paychecks.,control,False
+"If a new vaccine is developed, then the risk of a particular disease outbreak may be reduced.",predictive_conditional,True
+"If you're in a group conversation, then you should listen attentively and avoid dominating the discussion.",social_conditional,True
+"The local park is a hub of activity, with people of all ages enjoying the outdoor spaces.",control,False
+"The sun rises early in the morning, casting a warm glow over the neighborhood.",control,False
+"If the meeting runs late, then I may need to cancel my dinner plans.",temporal_conditional,True
+"If the project deadline is moved up, then we'll have to work overtime to complete it.",temporal_conditional,True
+The ocean waves crash gently against the sandy beach.,control,False
+"If you invest in quality tools, then they will last longer and be more reliable.",causal_conditional,True
+"If the office is closed for the holiday, then I won't need to come in to work.",temporal_conditional,True
+"If you're attending a wedding, then you should dress appropriately, avoid wearing white, and refrain from using your phone during the ceremony.",social_conditional,True
+"The wind rustles the leaves on the trees, creating a soothing sound.",control,False
+"The sun rises early in the morning, casting a warm glow over the neighborhood.",control,False
+"If the storm is predicted to hit tonight, then we should prepare the house for high winds.",temporal_conditional,True
+"If a vector space has a finite basis, then it is also finite-dimensional.",logical_conditional,True
+Snowflakes gently descend from the sky during the winter.,control,False
+"Commuters board the bus, ready to start their day's journey.",control,False
+"If you're attending a formal event, then you should dress appropriately in business attire or formal wear.",social_conditional,True
+"Neighbors wave to one another as they tend to their gardens, fostering a sense of community.",control,False
+Neighbors greet each other as they take their daily walks.,control,False
+"Neighbors wave to each other as they tend to their gardens, cultivating a sense of community.",control,False
+"The sound of a car engine starts up in the driveway, signaling the start of a new day.",control,False
+"The evening news reports the day's events, informing and engaging the audience.",control,False
+"If you study hard for the exam, then you will likely get a good grade.",causal_conditional,True
+"If a matrix is invertible, then its determinant is non-zero.",logical_conditional,True
+"If you don't properly maintain your home's plumbing, then you may experience costly leaks or flooding.",causal_conditional,True
+"If you're at a restaurant, then you should be polite to the staff and tip appropriately for the service.",social_conditional,True
+"Leaves fall from the trees, signaling the change of seasons.",control,False
+"If a graph is connected, then there exists a path between any two vertices.",logical_conditional,True
+"If a set is countable, then it has the same cardinality as the natural numbers.",logical_conditional,True
+"If a new social media platform becomes widely used, then the advertising landscape may shift.",predictive_conditional,True
+Laundry machines wash and dry clothes efficiently.,control,False
+"If a new health trend becomes popular, then sales of related products may surge.",predictive_conditional,True
+The clouds in the sky move slowly across the horizon.,control,False
+"If you don't get regular check-ups with your doctor, then you may miss early signs of health problems.",causal_conditional,True
+"If the weather is sunny, then people will want to spend time outdoors.",causal_conditional,True
+"If a new government policy is implemented, then the economic landscape may be impacted.",predictive_conditional,True
+"Leaves rustle in the gentle breeze, a soothing backdrop to the everyday activities.",control,False
+"The sound of a phone ringing interrupts the peaceful silence, connecting people across distances.",control,False
+The alarm clock wakes me up at the same time every day.,control,False
+"If you're introduced to someone new, then you should offer a firm handshake and make eye contact while stating your name.",social_conditional,True
+"If you don't maintain your vehicle, then it may break down more frequently.",causal_conditional,True
+"If you're the guest at someone's home, then you should offer to help with any chores or cleanup.",social_conditional,True
+"The local café serves up hot, fragrant coffee, providing a cozy respite for its patrons.",control,False
+"If the movie starts at 8 PM, then we should arrive at the theater by 7:45 PM.",temporal_conditional,True
+"The waves crash against the shore, their rhythmic sound soothing the mind.",control,False
+"If the unemployment rate rises, then consumer spending may decline.",predictive_conditional,True
+"Children hurry to the bus stop, eager to start another day at school.",control,False
+The children play on the swings at the local park.,control,False
+"The clock on the wall ticks steadily, marking the passage of time.",control,False
+"If a line is perpendicular to two other lines, then the three lines are concurrent.",logical_conditional,True
+"If you're using your phone in public, then you should keep the volume low and avoid disturbing those around you.",social_conditional,True
+"The neighborhood dog barks occasionally, alerting the owners to any unusual activity.",control,False
+"If you wear sunscreen, then you will be better protected from the harmful effects of UV radiation.",causal_conditional,True
+The birds chirp cheerfully in the early morning hours.,control,False
+"The library shelves are lined with books, waiting to be discovered by curious readers.",control,False
+"If you neglect to backup your computer, then you risk losing important data.",causal_conditional,True
+"If a new technology is introduced, then consumer demand for the older version is likely to decrease.",predictive_conditional,True
+"If a new environmental regulation is implemented, then certain industries may need to adjust their practices.",predictive_conditional,True
+"The office building stands tall, its windows reflecting the bustling city streets below.",control,False
+"If the event is held outdoors, then we should check the weather forecast.",temporal_conditional,True
+"Joggers pass by the park, maintaining a steady pace as they exercise.",control,False
+"If you forget to lock your car, then it could be vulnerable to theft.",causal_conditional,True
+"If you're in a conversation with someone, then you should avoid interrupting them and listen attentively.",social_conditional,True
+"If the concert tickets sell out quickly, then we'll need to try to get them online.",temporal_conditional,True
+The leaves on the trees change color in the fall.,control,False
+"If you're invited to a dinner party, then you should bring a small gift for the host, such as a bottle of wine or flowers.",social_conditional,True
+The sun rises in the east every morning.,control,False
+Bakers prepare fresh pastries and breads every morning.,control,False
+"If a proposition is a tautology, then it is always true.",logical_conditional,True
+"If the new software is released next week, then I'll need to schedule training for the team.",temporal_conditional,True
+"If a company reports strong financial results, then its stock price is likely to rise.",predictive_conditional,True
+"If a function is continuous at a point, then it is also differentiable at that point.",logical_conditional,True
+"If a new energy-efficient technology is adopted, then the demand for traditional energy sources may decrease.",predictive_conditional,True
+"The aroma of freshly baked cookies wafts through the house, tempting taste buds.",control,False
+"If the deadline is extended, then I'll have more time to complete the project.",temporal_conditional,True
+"If the alarm doesn't go off, then I'll be late for work.",temporal_conditional,True
+"The night sky is filled with twinkling stars, a reminder of the vastness of the universe.",control,False
+"If you're in a professional setting, then you should maintain a respectful and professional demeanor.",social_conditional,True
+"The television plays in the background, providing entertainment and news.",control,False
+"If the festival is held on Saturday, then we can attend after running our errands.",temporal_conditional,True
+Pets enjoy playing with their favorite toys.,control,False
+The local grocery store stocks fresh produce every day for its customers.,control,False
+"If the weather is nice this weekend, then we can plan a hiking trip.",temporal_conditional,True
+The wind rustles the leaves on the trees outside.,control,False
+"If a set is closed under a binary operation, then the operation is associative.",logical_conditional,True
+"If a country experiences political instability, then foreign investment in that country may decrease.",predictive_conditional,True
+"If the weather forecast predicts heavy rain, then the local authorities are likely to issue flood warnings.",predictive_conditional,True
+Restaurants serve delicious dishes to hungry customers.,control,False
+"If you don't recycle, then more waste will end up in landfills and contribute to environmental pollution.",causal_conditional,True
+"The aroma of freshly brewed coffee fills the air, enticing passers-by.",control,False
+The car engine rumbles as the driver accelerates down the road.,control,False
+Streetlights illuminate the roads as night falls.,control,False
+"The local farmers market is bustling with vendors, offering a variety of fresh produce.",control,False
+"If a sequence is convergent, then it is also bounded.",logical_conditional,True
+"The aroma of freshly baked bread wafts through the neighborhood, tempting passersby.",control,False
+"If you don't get enough physical activity, then you may be at a higher risk of developing chronic health conditions.",causal_conditional,True
+"If the power goes out, then we'll need to use the emergency flashlights.",temporal_conditional,True
+The clock strikes the hour with a chiming sound.,control,False
+"The clock strikes the hour, reminding everyone of the passage of time.",control,False
+"Children play on the swings, their joyful laughter filling the air.",control,False
+"The sun rises early in the morning, casting a warm glow over the neighborhood.",control,False
+"If a group is abelian, then its elements commute under the group operation.",logical_conditional,True
+"Pets eagerly await their owners' return, their tails wagging with excitement.",control,False
+"The grocery store is a hub of activity, as shoppers gather their weekly necessities.",control,False
+"Joggers pace the sidewalks, their steady footsteps echoing through the neighborhood.",control,False
+"Children giggle as they play on the playground, their energy boundless.",control,False
+"If a relation is reflexive, then it is also transitive.",logical_conditional,True
+Families gather around the table for a home-cooked meal.,control,False
+"Breakfast is the most important meal of the day, providing energy for the busy hours ahead.",control,False
+The dog barks whenever someone walks past the house.,control,False
+The sun rises early in the morning and sets late in the evening.,control,False
+The computer screen displays the latest news and weather updates.,control,False
+"If you're waiting in line, then you should patiently queue up and avoid cutting in front of others.",social_conditional,True
+Students attend classes and complete their assignments.,control,False
+"Lunchtime arrives, and the aroma of freshly prepared meals fills the air.",control,False
+"If the sum of two numbers is even, then at least one of the numbers must be even.",logical_conditional,True
+Families gather around the dinner table to share a meal in the evening.,control,False
+"The local community center hosts a variety of classes and events, fostering a sense of belonging.",control,False
+"If you're in a crowded elevator, then you should face forward and avoid unnecessary conversation to respect others' personal space.",social_conditional,True
+"Flowers bloom in vibrant colors, attracting bees and butterflies.",control,False
+The moon shines brightly in the night sky.,control,False
+Librarians shelve books and assist patrons with their needs.,control,False
+"If the traffic is heavy, then I may need to take an alternative route.",temporal_conditional,True
+"If a natural disaster strikes a region, then the local economy may experience a significant slowdown.",predictive_conditional,True
+"If you engage in regular strength training, then you will build muscle and improve your overall fitness.",causal_conditional,True
+"If you're at a social gathering, then you should introduce yourself to new people and engage in friendly conversation.",social_conditional,True
+"The sound of a train whistle echoes in the distance, reminding us of the interconnectedness of our world.",control,False
+"Families gather around the dinner table, sharing stories and laughter.",control,False
+"If a statement is true, then its negation is false.",logical_conditional,True
+"If you're borrowing a friend's belongings, then you should return them in the same condition you received them.",social_conditional,True
+"The breeze rustles the curtains, creating a calming atmosphere.",control,False
+"Gardeners tend to their plants, ensuring they thrive.",control,False
+"If the package arrives tomorrow, then I can have it delivered to the office.",temporal_conditional,True
