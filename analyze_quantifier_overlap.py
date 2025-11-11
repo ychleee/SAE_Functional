@@ -87,10 +87,21 @@ class FeatureOverlapAnalyzer:
         Returns:
             Dictionary of characteristic features
         """
-        # Calculate mean activations for each type
-        mean_conditional = codes_by_type['conditional'].mean(axis=0)
-        mean_quantifier = codes_by_type['quantifier'].mean(axis=0)
-        mean_control = codes_by_type['control'].mean(axis=0)
+        # Calculate mean activations for each type, handling empty arrays
+        if len(codes_by_type['conditional']) > 0:
+            mean_conditional = np.nan_to_num(codes_by_type['conditional'].mean(axis=0), nan=0.0)
+        else:
+            mean_conditional = np.zeros(codes_by_type['conditional'].shape[1] if codes_by_type['conditional'].size > 0 else 0)
+            
+        if len(codes_by_type['quantifier']) > 0:
+            mean_quantifier = np.nan_to_num(codes_by_type['quantifier'].mean(axis=0), nan=0.0)
+        else:
+            mean_quantifier = np.zeros(codes_by_type['quantifier'].shape[1] if codes_by_type['quantifier'].size > 0 else 0)
+            
+        if len(codes_by_type['control']) > 0:
+            mean_control = np.nan_to_num(codes_by_type['control'].mean(axis=0), nan=0.0)
+        else:
+            mean_control = np.zeros(codes_by_type['control'].shape[1] if codes_by_type['control'].size > 0 else 0)
         
         # Identify characteristic features (higher than control)
         cond_diff = mean_conditional - mean_control
@@ -142,6 +153,17 @@ class FeatureOverlapAnalyzer:
         """
         from sklearn.metrics.pairwise import cosine_similarity
         
+        # Determine feature dimension
+        feature_dim = None
+        for key in ['conditional', 'quantifier', 'control']:
+            if key in codes_by_type and codes_by_type[key].size > 0:
+                feature_dim = codes_by_type[key].shape[1]
+                break
+        
+        if feature_dim is None:
+            # If all arrays are empty, return identity matrix
+            return np.eye(3), {'Conditional': np.zeros(1), 'Quantifier': np.zeros(1), 'Control': np.zeros(1)}
+        
         # Get mean activation patterns
         patterns = {}
         for key, label in [('conditional', 'Conditional'), 
@@ -149,21 +171,28 @@ class FeatureOverlapAnalyzer:
                           ('control', 'Control')]:
             if key in codes_by_type and len(codes_by_type[key]) > 0:
                 pattern = codes_by_type[key].mean(axis=0)
-                # Replace NaN with 0
-                pattern = np.nan_to_num(pattern, nan=0.0)
+                # Replace NaN and inf with 0
+                pattern = np.nan_to_num(pattern, nan=0.0, posinf=0.0, neginf=0.0)
                 patterns[label] = pattern
             else:
                 # If no samples, use zeros
-                patterns[label] = np.zeros(codes_by_type['conditional'].shape[1])
+                patterns[label] = np.zeros(feature_dim)
         
         # Compute pairwise similarities
         pattern_matrix = np.array(list(patterns.values()))
+        
+        # Final NaN check
+        pattern_matrix = np.nan_to_num(pattern_matrix, nan=0.0, posinf=0.0, neginf=0.0)
         
         # Handle edge case where patterns might be all zeros
         if np.all(pattern_matrix == 0):
             similarity = np.eye(len(patterns))
         else:
-            similarity = cosine_similarity(pattern_matrix)
+            # Normalize to avoid numerical issues
+            norms = np.linalg.norm(pattern_matrix, axis=1, keepdims=True)
+            norms[norms == 0] = 1  # Avoid division by zero
+            pattern_matrix_normalized = pattern_matrix / norms
+            similarity = cosine_similarity(pattern_matrix_normalized)
         
         return similarity, patterns
     
