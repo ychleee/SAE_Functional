@@ -1,0 +1,321 @@
+text,type,has_quantifier,quantifier_type
+"If you don't get enough sleep, then you will feel tired.",conditional,False,none
+Every vehicle in the fleet must undergo regular maintenance.,restricted_universal,True,restricted universal
+Every employee on the sales team must meet their quarterly sales quota.,restricted_universal,True,restricted universal
+"If a quadrilateral has two pairs of parallel sides, then it is a parallelogram.",conditional,False,none
+All visitors to the museum must follow the posted rules and regulations.,restricted_universal,True,restricted universal
+"If you leave your phone at home, then you won't be able to call for help.",conditional,False,none
+"If a number is divisible by 4, then it is also divisible by 2.",conditional,False,none
+Clouds are made of water vapor.,generic_universal,True,generic universal
+"If you take a vacation, then you will feel refreshed.",conditional,False,none
+Every car has a steering wheel and pedals.,pure_universal,True,pure universal
+Each planet in the solar system has a unique size and composition.,pure_universal,True,pure universal
+All donors to the fundraiser must provide their contact information.,restricted_universal,True,restricted universal
+Any computer connected to the network can access the shared files.,any_universal,True,any universal
+"If you're feeling sick, then you should stay home and rest.",conditional,False,none
+"If you win the lottery, then you can retire early.",conditional,False,none
+"If you're feeling lonely, then you should reach out to friends or family.",conditional,False,none
+All residents of the senior living community have access to recreational activities.,restricted_universal,True,restricted universal
+Bridges connect two land masses.,generic_universal,True,generic universal
+All employees in the finance department must have a background in accounting.,restricted_universal,True,restricted universal
+No country in the world is entirely free from poverty.,negative_universal,True,negative universal
+Every child in the daycare center must be signed in and out by a parent or guardian.,restricted_universal,True,restricted universal
+"If you're interested in a career change, then you should research different options.",conditional,False,none
+All humans need oxygen to breathe.,pure_universal,True,pure universal
+Icebergs float on water.,generic_universal,True,generic universal
+Ants live in colonies.,generic_universal,True,generic universal
+Roots absorb water and nutrients.,generic_universal,True,generic universal
+"If a triangle has two equal sides, then it is an isosceles triangle.",conditional,False,none
+All attendees at the wedding must RSVP by the specified date.,restricted_universal,True,restricted universal
+All roads lead to somewhere.,pure_universal,True,pure universal
+Any recipe in this cookbook can be easily prepared at home.,any_universal,True,any universal
+Every participant in the marathon must complete the course within a specified time limit.,restricted_universal,True,restricted universal
+Snowflakes have a hexagonal shape.,generic_universal,True,generic universal
+Each ocean has its own distinct ecosystem.,pure_universal,True,pure universal
+"If you exercise regularly, then you will stay healthy.",conditional,False,none
+Bees pollinate flowers.,generic_universal,True,generic universal
+Every student in the school district must take the standardized test.,restricted_universal,True,restricted universal
+Any tool in the toolbox can be used for the repair work.,any_universal,True,any universal
+"If you leave the door open, then the cat will escape.",conditional,False,none
+Cells are the basic units of life.,generic_universal,True,generic universal
+None of the students brought their textbooks to the lecture.,negative_universal,True,negative universal
+"If the bill is not paid on time, then the late fees will be applied.",conditional,False,none
+Every country has a capital city.,pure_universal,True,pure universal
+"If it rains, then the plants will get watered.",conditional,False,none
+Nothing is impossible for those who try.,negative_universal,True,negative universal
+"If you exercise regularly, then you will stay healthy.",conditional,False,none
+No one in the class failed the exam.,negative_universal,True,negative universal
+Each classroom has a teacher.,pure_universal,True,pure universal
+"If you eat a balanced diet, then your body will function properly.",conditional,False,none
+"If the internet connection is stable, then we can stream the movie without interruptions.",conditional,False,none
+"If you're interested in learning a new language, then you should immerse yourself in it as much as possible.",conditional,False,none
+"If you're feeling creative, then you should try a new hobby or project.",conditional,False,none
+"If you study hard, then you will pass the exam.",conditional,False,none
+All clocks have a mechanism to measure time.,pure_universal,True,pure universal
+"If you eat too much, then you'll feel bloated.",conditional,False,none
+Teeth are used for chewing food.,generic_universal,True,generic universal
+All players on the basketball team must attend daily practice sessions.,restricted_universal,True,restricted universal
+Nothing is more powerful than the human spirit.,negative_universal,True,negative universal
+"If the computer freezes, then we need to restart it.",conditional,False,none
+"If you're feeling stressed, then try practicing meditation.",conditional,False,none
+Each day has 24 hours.,pure_universal,True,pure universal
+"If you don't get enough sleep, then you'll feel tired the next day.",conditional,False,none
+None of the books on the shelf were written in the 21st century.,negative_universal,True,negative universal
+"If you eat too much, then you will gain weight.",conditional,False,none
+Mammals give birth to live young.,generic_universal,True,generic universal
+Nothing can stop the determined mind.,negative_universal,True,negative universal
+Every guest at the hotel is entitled to a complimentary breakfast.,restricted_universal,True,restricted universal
+Nothing is as valuable as a good education.,negative_universal,True,negative universal
+All metals are good conductors of electricity.,pure_universal,True,pure universal
+"If the customer's order is incorrect, then they can request a refund.",conditional,False,none
+No child should go to bed hungry.,negative_universal,True,negative universal
+"If you're late for work, then your boss will be angry.",conditional,False,none
+Nothing can prepare you for the loss of a loved one.,negative_universal,True,negative universal
+Nothing can replace the love of a parent.,negative_universal,True,negative universal
+Any mistake discovered in the financial records will be promptly corrected.,any_universal,True,any universal
+Any resident of this community can participate in the neighborhood cleanup.,any_universal,True,any universal
+Any vehicle that exceeds the speed limit will be pulled over by the police.,any_universal,True,any universal
+Waves crash against the shoreline.,generic_universal,True,generic universal
+Any product sold in our store is guaranteed to be of high quality.,any_universal,True,any universal
+"If you save money each month, then you'll have enough for a vacation.",conditional,False,none
+Any person who violates the rules will be subject to disciplinary action.,any_universal,True,any universal
+"If a triangle has three equal sides, then it is an equilateral triangle.",conditional,False,none
+"If you practice a new skill, then you will improve over time.",conditional,False,none
+"If the economy improves, then the job market will become more competitive.",conditional,False,none
+"If you study hard, then you will pass the exam.",conditional,False,none
+Rainbows appear after a rainstorm.,generic_universal,True,generic universal
+Hurricanes have strong winds.,generic_universal,True,generic universal
+"If the weather forecast predicts rain, then you should bring an umbrella.",conditional,False,none
+Any person who is eligible to vote should exercise their right to do so.,any_universal,True,any universal
+No one can predict the future with certainty.,negative_universal,True,negative universal
+Any software update released by the company will be automatically installed.,any_universal,True,any universal
+Any student who maintains a high GPA will be eligible for a scholarship.,any_universal,True,any universal
+"If a triangle has three unequal sides, then it is a scalene triangle.",conditional,False,none
+"If the sun is shining, then it's a good day to go for a picnic.",conditional,False,none
+"If you don't recycle, then the environment will suffer.",conditional,False,none
+Muscles contract to produce movement.,generic_universal,True,generic universal
+Each person has a unique set of fingerprints.,pure_universal,True,pure universal
+Each flower has a unique color and shape.,pure_universal,True,pure universal
+Any customer who provides feedback will help us improve our services.,any_universal,True,any universal
+Any customer who is unsatisfied with their purchase can request a refund.,any_universal,True,any universal
+"If the car needs repairs, then we should take it to the mechanic.",conditional,False,none
+Each planet in the solar system orbits the sun.,pure_universal,True,pure universal
+Any employee who demonstrates exceptional performance will be recognized.,any_universal,True,any universal
+All visitors to the museum must purchase a ticket.,restricted_universal,True,restricted universal
+"If you arrive at the airport early, then you will have time to go through security.",conditional,False,none
+Computers process data.,generic_universal,True,generic universal
+Any book in this library can be borrowed for two weeks.,any_universal,True,any universal
+Any complaint filed with the management will be thoroughly investigated.,any_universal,True,any universal
+"If a number is prime, then it is only divisible by 1 and itself.",conditional,False,none
+Tornadoes have a spiral shape.,generic_universal,True,generic universal
+All customers at the restaurant must order a minimum of one item.,restricted_universal,True,restricted universal
+Any item purchased from our store can be returned within 30 days.,any_universal,True,any universal
+Every student in the class must complete the final project.,restricted_universal,True,restricted universal
+No person is perfect.,negative_universal,True,negative universal
+Clouds block the sun's rays.,generic_universal,True,generic universal
+All birds have wings.,pure_universal,True,pure universal
+Any work of art displayed in the gallery can be purchased by the public.,any_universal,True,any universal
+Nothing is more important than family.,negative_universal,True,negative universal
+"If the sun rises, then the day will begin.",conditional,False,none
+"If you arrive late, then you may miss the important announcement.",conditional,False,none
+Every flower needs sunlight and water to grow.,pure_universal,True,pure universal
+All passengers on the flight must comply with the airline's safety regulations.,restricted_universal,True,restricted universal
+"If the customer's feedback is positive, then we can use it for marketing purposes.",conditional,False,none
+"Here are 40 conditional sentences using the if-then structure, with a mix of causal, temporal, logical, and predictive conditions:",conditional,False,none
+Sunlight is necessary for photosynthesis.,generic_universal,True,generic universal
+Each star in the night sky is a different distance from Earth.,pure_universal,True,pure universal
+Nothing can stop the passage of time.,negative_universal,True,negative universal
+Any patient who needs a medical appointment can schedule one online.,any_universal,True,any universal
+"If the package is delivered on time, then we can start the project as planned.",conditional,False,none
+"If you save money, then you can afford to take a vacation.",conditional,False,none
+"If you want to lose weight, then you should exercise and eat a balanced diet.",conditional,False,none
+"If the patient follows the doctor's instructions, then they will recover quickly.",conditional,False,none
+"If you're feeling unmotivated, then you should try setting small, achievable goals.",conditional,False,none
+Each member of the club must pay the annual membership fee.,restricted_universal,True,restricted universal
+No one knows the true meaning of life.,negative_universal,True,negative universal
+"If a quadrilateral has four right angles, then it is a rectangle.",conditional,False,none
+All rivers eventually flow into the ocean.,pure_universal,True,pure universal
+"If the car's engine overheats, then it may cause damage to the vehicle.",conditional,False,none
+Worms live underground.,generic_universal,True,generic universal
+Every person has a unique personality.,pure_universal,True,pure universal
+"If you don't turn off the lights, then your electricity bill will be higher.",conditional,False,none
+Forests provide habitats for wildlife.,generic_universal,True,generic universal
+Apples grow on trees.,generic_universal,True,generic universal
+"If you get a good night's sleep, then you will feel more alert.",conditional,False,none
+Every employee in the office must use the designated break room.,restricted_universal,True,restricted universal
+"If you're going on a trip, then you should pack light and bring only the essentials.",conditional,False,none
+Every member of the sports team must attend the team banquet.,restricted_universal,True,restricted universal
+"If you forget to turn off the stove, then the house might catch fire.",conditional,False,none
+"If you are kind to others, then they will be kind to you.",conditional,False,none
+Any animal that is mistreated will be reported to the appropriate authorities.,any_universal,True,any universal
+"If the recipe includes gluten, then people with celiac disease should avoid it.",conditional,False,none
+Each family has its own traditions and customs.,pure_universal,True,pure universal
+"If the temperature drops below freezing, then the water will freeze.",conditional,False,none
+"If the recipe calls for eggs, then we need to add them to the mixture.",conditional,False,none
+All residents of the neighborhood must comply with the local zoning regulations.,restricted_universal,True,restricted universal
+All clouds are made up of water droplets or ice crystals.,pure_universal,True,pure universal
+"If the product is defective, then the customer can return it for a replacement.",conditional,False,none
+All planets in our solar system orbit the sun.,pure_universal,True,pure universal
+All applicants for the scholarship must meet the eligibility criteria.,restricted_universal,True,restricted universal
+Each month has a specific number of days.,pure_universal,True,pure universal
+Tides are caused by the moon's gravity.,generic_universal,True,generic universal
+All patients in the intensive care unit are monitored closely.,restricted_universal,True,restricted universal
+All employees at the company must wear a uniform.,restricted_universal,True,restricted universal
+No person is above the law.,negative_universal,True,negative universal
+"If the new employee performs well, then they may receive a promotion.",conditional,False,none
+Here are 40 varied conditional sentences using the if-then structure:,conditional,False,none
+"If you wear sunscreen, then you'll be protected from harmful UV rays.",conditional,False,none
+Every customer at the restaurant must order a minimum of one item.,restricted_universal,True,restricted universal
+Every employee at the company must undergo annual performance reviews.,restricted_universal,True,restricted universal
+Any document submitted after the deadline will not be considered.,any_universal,True,any universal
+"If it rains, then the plants will get watered.",conditional,False,none
+"If the customer is satisfied, then they may return for more business.",conditional,False,none
+Diamonds are hard and durable.,generic_universal,True,generic universal
+Leaves change color in the fall.,generic_universal,True,generic universal
+Any musician who performs at the concert will receive a complimentary ticket.,any_universal,True,any universal
+"If the traffic is heavy, then it will take longer to get to your destination.",conditional,False,none
+All campers at the national park must obtain a permit.,restricted_universal,True,restricted universal
+"If the weather is sunny, then it's a good day to go to the beach.",conditional,False,none
+None of the ancient civilizations lasted forever.,negative_universal,True,negative universal
+"If you're allergic to peanuts, then you should avoid eating them.",conditional,False,none
+Metals conduct electricity.,generic_universal,True,generic universal
+Clocks measure the passage of time.,generic_universal,True,generic universal
+"If you turn off the lights, then the room will be dark.",conditional,False,none
+Any information shared with us will be kept strictly confidential.,any_universal,True,any universal
+All visitors to the art gallery must check their belongings at the entrance.,restricted_universal,True,restricted universal
+"If you water the plants regularly, then they will grow healthier.",conditional,False,none
+Feathers help birds fly.,generic_universal,True,generic universal
+Every book on the shelf has a unique title.,pure_universal,True,pure universal
+No politician is completely honest.,negative_universal,True,negative universal
+"If the temperature drops below freezing, then the water will turn to ice.",conditional,False,none
+"If you're trying to save money, then you should create a budget and stick to it.",conditional,False,none
+"If the temperature drops below freezing, then the water will turn to ice.",conditional,False,none
+Any family member can request a copy of the family tree.,any_universal,True,any universal
+None of the natural disasters were expected.,negative_universal,True,negative universal
+Every human being has the right to education.,pure_universal,True,pure universal
+"If the car runs out of gas, then we will need to refill the tank.",conditional,False,none
+"If you win the lottery, then you will be rich.",conditional,False,none
+None of the historical figures were without flaws.,negative_universal,True,negative universal
+All books in the university library are available for checkout.,restricted_universal,True,restricted universal
+"If the battery is low, then the device will shut down.",conditional,False,none
+Deserts receive little rainfall.,generic_universal,True,generic universal
+Magnets attract certain metals.,generic_universal,True,generic universal
+None of the contestants won the grand prize.,negative_universal,True,negative universal
+"If you forget your umbrella, then you will get wet in the rain.",conditional,False,none
+Any guest who stays at our hotel will receive a complimentary breakfast.,any_universal,True,any universal
+Each season has its own distinct weather patterns.,pure_universal,True,pure universal
+Any employee who works overtime will receive additional compensation.,any_universal,True,any universal
+Each person needs to drink water to survive.,pure_universal,True,pure universal
+Every triangle has three sides and three angles.,pure_universal,True,pure universal
+Any problem that arises during the project will be addressed promptly.,any_universal,True,any universal
+"If you study hard, then you will pass the exam.",conditional,False,none
+"If a circle has a larger radius, then it will have a larger circumference.",conditional,False,none
+Any skill learned during the training program can be applied in the workplace.,any_universal,True,any universal
+Comets have a tail of gas and dust.,generic_universal,True,generic universal
+"If you're feeling overwhelmed, then you should take a break and practice self-care.",conditional,False,none
+Each employee is responsible for their own work.,pure_universal,True,pure universal
+Any sport played at the community center is open to all participants.,any_universal,True,any universal
+"If the investment is profitable, then we can expect a good return.",conditional,False,none
+No one is immune to the effects of stress.,negative_universal,True,negative universal
+None of the athletes on the team smoke cigarettes.,negative_universal,True,negative universal
+All trees have roots that grow underground.,pure_universal,True,pure universal
+"If a number is divisible by 3, then it is also divisible by 9.",conditional,False,none
+"If you arrive at the party early, then you can help set up.",conditional,False,none
+"If you apply for the job, then you might get hired.",conditional,False,none
+Earthquakes can cause damage.,generic_universal,True,generic universal
+"If you leave your phone at home, then you won't be able to contact anyone.",conditional,False,none
+Volcanoes erupt molten rock.,generic_universal,True,generic universal
+"If the stock market is volatile, then investors may experience significant gains or losses.",conditional,False,none
+"If you water the plants, then they will grow.",conditional,False,none
+No one is immune to the effects of aging.,negative_universal,True,negative universal
+"If the deadline is approaching, then we need to work faster.",conditional,False,none
+Any person who is interested in the job opening should submit their resume.,any_universal,True,any universal
+None of the paintings in the museum are worth more than a million dollars.,negative_universal,True,negative universal
+"No matter how hard you try, nothing is guaranteed.",negative_universal,True,negative universal
+Every item in the grocery store is subject to sales tax.,restricted_universal,True,restricted universal
+All apples are fruit.,pure_universal,True,pure universal
+Satellites orbit the Earth.,generic_universal,True,generic universal
+Rivers flow towards the ocean.,generic_universal,True,generic universal
+No employee at the company has a perfect attendance record.,negative_universal,True,negative universal
+"If you want to learn a new skill, then you should take a class or find a mentor.",conditional,False,none
+Bones provide structure for the body.,generic_universal,True,generic universal
+"If the sky is cloudy, then it might rain.",conditional,False,none
+"If you're looking to improve your fitness, then you should set realistic goals and track your progress.",conditional,False,none
+"If it rains, then the plants will get water.",conditional,False,none
+Nothing is more powerful than the human mind.,negative_universal,True,negative universal
+Every athlete on the team must undergo drug testing.,restricted_universal,True,restricted universal
+Any individual who needs assistance can contact our customer service team.,any_universal,True,any universal
+All patients at the clinic must provide a valid insurance card.,restricted_universal,True,restricted universal
+"If the fire alarm sounds, then we must evacuate the building immediately.",conditional,False,none
+Nothing in this world is certain except death and taxes.,negative_universal,True,negative universal
+Every driver in the city must display a valid parking permit.,restricted_universal,True,restricted universal
+Flowers have petals.,generic_universal,True,generic universal
+None of the customers complained about the poor service.,negative_universal,True,negative universal
+"If the traffic light turns red, then we must stop the car.",conditional,False,none
+All cells have a cell membrane and genetic material.,pure_universal,True,pure universal
+"If the alarm clock goes off, then it's time to wake up.",conditional,False,none
+"If the door is locked, then we won't be able to enter the building.",conditional,False,none
+None of the planets in our solar system are habitable for humans.,negative_universal,True,negative universal
+"If you miss the bus, then you will be late for work.",conditional,False,none
+All members of the club must participate in the annual charity drive.,restricted_universal,True,restricted universal
+"If the book is available, then I can borrow it from the library.",conditional,False,none
+None of the flowers in the garden are native to this region.,negative_universal,True,negative universal
+All students in the honors program are required to maintain a minimum GPA.,restricted_universal,True,restricted universal
+Balloons filled with helium rise.,generic_universal,True,generic universal
+Any policy change will be communicated to all affected parties.,any_universal,True,any universal
+No animal in the wild lives forever.,negative_universal,True,negative universal
+"If the weather is sunny, then the solar panels will generate more electricity.",conditional,False,none
+None of the restaurants in the city serve vegan options.,negative_universal,True,negative universal
+Here are 40 conditional sentences with different types of conditions:,conditional,False,none
+Every computer has a processor and memory.,pure_universal,True,pure universal
+All residents of the apartment complex must follow the building's noise ordinance.,restricted_universal,True,restricted universal
+Nothing can replace the joy of a good night's sleep.,negative_universal,True,negative universal
+"If you get a good night's sleep, then you'll feel more energized in the morning.",conditional,False,none
+Spiders spin webs to catch prey.,generic_universal,True,generic universal
+"If you don't pay your bills on time, then your credit score will suffer.",conditional,False,none
+Every sport has its own set of rules and regulations.,pure_universal,True,pure universal
+"If the team wins the game, then they will advance to the next round.",conditional,False,none
+"If the software update is successful, then the system will run more efficiently.",conditional,False,none
+"If a number is negative, then it is less than zero.",conditional,False,none
+"If the application deadline is missed, then the candidate will not be considered.",conditional,False,none
+Nothing can replace the joy of a good friendship.,negative_universal,True,negative universal
+Any question asked during the presentation will be answered to the best of our ability.,any_universal,True,any universal
+"If you're running late, then you should call ahead to let people know.",conditional,False,none
+"If you add baking soda to the mixture, then it will rise.",conditional,False,none
+All living organisms require energy to function.,pure_universal,True,pure universal
+All musical instruments produce sound.,pure_universal,True,pure universal
+"If the test results are positive, then the doctor will recommend treatment.",conditional,False,none
+Any decision made by the board of directors will be in the best interest of the organization.,any_universal,True,any universal
+Planets orbit around stars.,generic_universal,True,generic universal
+Any natural disaster that occurs will be responded to by the emergency services.,any_universal,True,any universal
+Mirrors reflect light.,generic_universal,True,generic universal
+Every country has a national flag.,pure_universal,True,pure universal
+Any emergency situation will be handled with the utmost care and attention.,any_universal,True,any universal
+Every square has four equal sides.,pure_universal,True,pure universal
+Any flower in this garden can be picked for a bouquet.,any_universal,True,any universal
+Every tenant in the apartment building must follow the building's pet policy.,restricted_universal,True,restricted universal
+Any medicine prescribed by a doctor should be taken as directed.,any_universal,True,any universal
+Any volunteer who helps with the charity event will be greatly appreciated.,any_universal,True,any universal
+"If you leave now, then you will beat the traffic.",conditional,False,none
+Nothing is more important than your health.,negative_universal,True,negative universal
+Every patient in the clinic must provide their medical history.,restricted_universal,True,restricted universal
+Every dog has four legs.,pure_universal,True,pure universal
+"If you're trying to quit a bad habit, then you should seek support and develop a plan.",conditional,False,none
+"If the employee's performance is exceptional, then they may receive a bonus.",conditional,False,none
+"If the project deadline is extended, then the team can take more time to complete the work.",conditional,False,none
+"If the flight is delayed, then we may miss our connecting flight.",conditional,False,none
+Any child under the age of 12 can participate in the summer camp program.,any_universal,True,any universal
+Every volunteer at the charity event must sign in and out.,restricted_universal,True,restricted universal
+Every language has its own unique grammar and vocabulary.,pure_universal,True,pure universal
+None of the decisions made by the committee were unanimous.,negative_universal,True,negative universal
+Every speaker at the conference must adhere to the time limit.,restricted_universal,True,restricted universal
+No music is better than the songs of nature.,negative_universal,True,negative universal
+"If you don't wear a seatbelt, then you're at risk of injury in an accident.",conditional,False,none
+"If the weather is nice, then we can go for a picnic.",conditional,False,none
+"If you invest in the stock market, then you could potentially earn a good return.",conditional,False,none
+"If the weather forecast predicts rain, then we should bring an umbrella.",conditional,False,none
+"If you exercise regularly, then you will stay healthy.",conditional,False,none
+"If a number is a multiple of 6, then it is also a multiple of 2 and 3.",conditional,False,none
+Every driver on the highway is required to obey traffic laws.,restricted_universal,True,restricted universal
+"If you follow the recipe, then the cake will turn out perfectly.",conditional,False,none
+All living things need water to survive.,pure_universal,True,pure universal
