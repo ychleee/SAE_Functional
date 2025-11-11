@@ -52,15 +52,27 @@ class FeatureOverlapAnalyzer:
             acts_tensor = torch.FloatTensor(activations).to(self.device)
             sparse_codes = self.sae.encode(acts_tensor).cpu().numpy()
         
+        # Replace any NaN values with 0
+        sparse_codes = np.nan_to_num(sparse_codes, nan=0.0)
+        
         # Separate by type
+        cond_mask = labels == 'conditional'
+        quant_mask = np.isin(labels, [
+            'pure_universal', 'restricted_universal', 
+            'negative_universal', 'generic_universal', 'any_universal'
+        ])
+        ctrl_mask = labels == 'control'
+        
         codes_by_type = {
-            'conditional': sparse_codes[labels == 'conditional'],
-            'quantifier': sparse_codes[np.isin(labels, [
-                'pure_universal', 'restricted_universal', 
-                'negative_universal', 'generic_universal', 'any_universal'
-            ])],
-            'control': sparse_codes[labels == 'control']
+            'conditional': sparse_codes[cond_mask] if np.any(cond_mask) else np.array([]),
+            'quantifier': sparse_codes[quant_mask] if np.any(quant_mask) else np.array([]),
+            'control': sparse_codes[ctrl_mask] if np.any(ctrl_mask) else np.array([])
         }
+        
+        # Ensure we have at least empty arrays with correct shape
+        for key in codes_by_type:
+            if codes_by_type[key].size == 0:
+                codes_by_type[key] = np.zeros((0, sparse_codes.shape[1]))
         
         return codes_by_type, sparse_codes
     
@@ -131,15 +143,27 @@ class FeatureOverlapAnalyzer:
         from sklearn.metrics.pairwise import cosine_similarity
         
         # Get mean activation patterns
-        patterns = {
-            'Conditional': codes_by_type['conditional'].mean(axis=0),
-            'Quantifier': codes_by_type['quantifier'].mean(axis=0),
-            'Control': codes_by_type['control'].mean(axis=0)
-        }
+        patterns = {}
+        for key, label in [('conditional', 'Conditional'), 
+                          ('quantifier', 'Quantifier'), 
+                          ('control', 'Control')]:
+            if key in codes_by_type and len(codes_by_type[key]) > 0:
+                pattern = codes_by_type[key].mean(axis=0)
+                # Replace NaN with 0
+                pattern = np.nan_to_num(pattern, nan=0.0)
+                patterns[label] = pattern
+            else:
+                # If no samples, use zeros
+                patterns[label] = np.zeros(codes_by_type['conditional'].shape[1])
         
         # Compute pairwise similarities
         pattern_matrix = np.array(list(patterns.values()))
-        similarity = cosine_similarity(pattern_matrix)
+        
+        # Handle edge case where patterns might be all zeros
+        if np.all(pattern_matrix == 0):
+            similarity = np.eye(len(patterns))
+        else:
+            similarity = cosine_similarity(pattern_matrix)
         
         return similarity, patterns
     
